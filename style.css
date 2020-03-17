@@ -1,0 +1,134 @@
+#logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 92px;
+    width: 272px;
+    padding: 109px;
+  }
+  .search-input {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 584px;
+    height: 46px;
+    border-radius: 2em;
+    margin-top: -75px;
+  }
+  .nav-left {
+    display:block;
+    width: 98.672px;
+    height: 15.50px;
+    float: left;
+    list-style-type: none;
+    margin-left:10px;
+    margin-top:7px;
+    position:absolute;
+  }
+  .nav-left a {
+    display: block-inline;
+    padding-left:15px;
+    text-decoration: none;
+    color: gray;
+  }
+  .nav-right {
+    padding-left: 30px;
+     padding-right: 30px;
+     position: relative;
+     text-align: right;
+     
+     
+   
+    
+  }
+  .nav-right a {
+    text-decoration: none;
+    color: gray;
+    padding: 0 0 0 15px;
+    
+  }
+  .nav-right a:hover {
+    text-decoration: underline;
+  }
+  .nav-left a:hover {
+    text-decoration: underline;
+  }
+  .search-button {
+    display: block;
+    margin-left: 600px;
+    margin-right: auto;
+    margin-top: 18px;
+    height: 36px;
+    width: 125px;
+    min-width: 54px;
+    cursor: pointer;
+    align-text: center;
+    
+  }
+  .lucky-button {
+    display: block;
+    margin-left: auto;
+    margin-right: 600px;
+    height: 36px;
+    margin-top: -36px;
+    min-width: 54px;
+    align-text: center;
+    cursor: pointer;
+  }
+  .language-change {
+    margin-top: 30px;
+    text-align: center;
+  }
+  .language-change a {
+    text-decoration: none;
+  }
+  .language-change a:hover {
+    text-decoration: underline;
+  }
+  .country-bar {
+    display: block;
+    background-color: #F2F2F2;
+    color: rgba(0,0,0,.54);
+    height: 40.5px;
+    margin-top: 300px;
+    padding-top: 15px;
+    padding-left: 15px;
+    font-size: 18px;
+    margin-left: -10px;
+    border-color: F4F4F4;
+    border-style: solid none;
+    border-width: 0.5px;
+    border-bottom: 0px;
+  }
+  .footer {
+    background-color: #F2F2F2;
+    height: 30px;
+    padding-top:15px;
+    margin-top: -18px;
+    border-style: solid none;
+    border-width: 0.5px;
+    margin-left: -10px;
+    border-color: gray;
+    border-bottom: 0px;
+    padding-bottom: 7px;
+    
+  }
+  .footer-left {
+    text-decoration: none;
+    padding: 0 0 0 15px;
+    color: rgba(0,0,0,.54);
+    
+  }
+  .footer-left:hover {
+    text-decoration: underline;
+  }
+  .footer-right {
+    float: right;
+    text-decoration: none;
+    padding: 0 0 0 15px;
+    color: rgba(0,0,0,.54);
+    margin-right: 15px;
+  }
+  .footer-right:hover {
+    text-decoration: underline;
+  }
