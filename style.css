@@ -16,9 +16,9 @@
   margin-top: -75px;
 }
 .nav-left {
-  display:block;
+  display: block;
   width: 98.672px;
-  height: 15.50px;
+  height: 15.5px;
   float: left;
   list-style-type: none;
   margin-left: 10px;
@@ -27,25 +27,20 @@
 }
 .nav-left a {
   display: block-inline;
-  padding-left:15px;
+  padding-left: 15px;
   text-decoration: none;
   color: gray;
 }
 .nav-right {
   padding-left: 30px;
-   padding-right: 30px;
-   position: relative;
-   text-align: right;
-   
-   
- 
-  
+  padding-right: 30px;
+  position: relative;
+  text-align: right;
 }
 .nav-right a {
   text-decoration: none;
   color: gray;
   padding: 0 0 0 15px;
-  
 }
 .nav-right a:hover {
   text-decoration: underline;
@@ -63,8 +58,6 @@
   min-width: 54px;
   cursor: pointer;
   align-text: center;
- 
-  
 }
 .lucky-button {
   display: block;
@@ -75,7 +68,6 @@
   min-width: 54px;
   align-text: center;
   cursor: pointer;
- 
 }
 .language-change {
   margin-top: 30px;
@@ -89,9 +81,9 @@
 }
 
 .footer {
-  background-color: #F2F2F2;
+  background-color: #f2f2f2;
   height: 30px;
-  padding-top:15px;
+  padding-top: 15px;
   margin-top: -18px;
   border-style: solid none;
   border-width: 0.5px;
@@ -103,14 +95,11 @@
   bottom: 0;
   left: 0;
   right: 0;
- 
-  
 }
 .footer-left {
   text-decoration: none;
   padding: 0 0 0 15px;
-  color: rgba(0,0,0,.54);
-  
+  color: rgba(0, 0, 0, 0.54);
 }
 .footer-left:hover {
   text-decoration: underline;
@@ -119,7 +108,7 @@
   float: right;
   text-decoration: none;
   padding: 0 0 0 15px;
-  color: rgba(0,0,0,.54);
+  color: rgba(0, 0, 0, 0.54);
   margin-right: 15px;
 }
 .footer-right:hover {
